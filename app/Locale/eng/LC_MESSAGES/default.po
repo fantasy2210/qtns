@@ -1,0 +1,125 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-09-29 09:42+0700\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Console/Templates/bootstrap/views/form.ctp:45
+msgid "Submit"
+msgstr "Gửi đi"
+
+#: Console/Templates/bootstrap/views/form.ctp:45
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Bạn có chắc chắn muốn xóa dữ liệu này # %s?"
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Trang {:page} của {:pages}, đang hiện {:current} dữ liệu trong tổng số {:count}, bắt đầu với {:start}, kết thúc ở {:end}"
+
+msgid "dashboard"
+msgstr "<i class='menu-icon fa fa-trophy'></i><span class='menu-text'> Bàn làm việc</span>"
+
+msgid "enrolled chapter"
+msgstr "<i class='menu-icon fa fa-caret-right'></i><span class='menu-text'>Đã tham gia </span>"
+
+msgid "dang ky"
+msgstr "<i class='menu-icon fa fa-thumb-tack'></i>Đăng ký"
+
+msgid "Student Name"
+msgstr "Sinh viên"
+
+msgid "profile"
+msgstr "<i class='menu-icon fa fa-file'></i>Hồ sơ"
+
+msgid "score"
+msgstr "<i class='menu-icon fa fa-trophy'></i>Kết quả"
+
+msgid "users"
+msgstr "<i class='menu-icon fa fa-users'></i><span class="menu-text">Người dùng</span><b class="arrow"></b>"
+
+
+msgid "chung nhan"
+msgstr "<i class='menu-icon fa fa-certificate'></i><span class="menu-text"> Chứng nhận </span>"
+
+msgid "thong ke"
+msgstr "<i class='menu-icon fa fa-pie-chart'></i><span class="menu-text"> Thống kê</span>"
+
+msgid "change_password"
+msgstr "<i class='menu-icon fa fa-key'></i><span class="menu-text"> Đổi mật khẩu </span>"
+                
+
+msgid "change_password_btn"
+msgstr "<button class='btn btn-sm btn-primary btn-warning btn-round'><i class='icon-on-right ace-icon fa fa-key'></i>Đổi mật khẩu</button>"
+
+msgid "logout"
+msgstr "<i class='menu-icon fa fa-power-off'></i><span class="menu-text">Đăng xuất</span>"
+
+msgid "Pass"
+msgstr "Kết quả"
+
+msgid "Fee"
+msgstr "Học phí"
+
+msgid "Absence"
+msgstr "Vắng"
+
+#: View/Dashboards/student_home.ctp: 2
+msgid "Enrollments"
+msgstr "Thông tin tham dự"
+
+
+#: View/Chapters/view.ctp: 9
+msgid "Description"
+msgstr "Miêu tả"
+
+#: View/Chapters/view.ctp: 14
+msgid "So Tiet Ly Thuyet"
+msgstr "Số tiết lý thuyết"
+
+#: View/Chapters/view.ctp: 19
+msgid "So Tiet Thuc Hanh"
+msgstr "Số tiết thực hành"
+
+#: View/Chapters/view.ctp: 24
+msgid "Chapter Type"
+msgstr "Loại kỹ năng"
+
+#: View/Courses/manager_index.ctp: 134
+msgid "view"
+msgstr "Xem"
+
+#: View/Courses/manager_index.ctp: 135
+msgid "open"
+msgstr "Mở"
+
+#: View/Courses/manager_index.ctp: 136
+msgid "print"
+msgstr "In"
+
+#: View/Courses/manager_index.ctp: 137
+msgid "cancel"
+msgstr "Hủy"
+
+msgid "ket qua"
+msgstr "Kết quả"
+
+msgid "Departments"
+msgstr "Đơn vị"
+
+msgid "Classrooms"
+msgstr "Lớp sinh viên"
+
+msgid "Sex"
+msgstr "Giới tính"
